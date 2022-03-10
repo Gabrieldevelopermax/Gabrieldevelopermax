@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/Gabrieldevelopermax">
+  <a href="https://github.com/gabrieldevelopermax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldevelopermax&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldevelopermax&layout=compact&langs_count=7&theme=dracula"/>
 </div>
