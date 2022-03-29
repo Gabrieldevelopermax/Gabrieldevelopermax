@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
 💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software . </br>
-🎓 &nbsp;Atualmente estou estudando React,js e Python.\
+🎓 &nbsp;Atualmente estou estudando React,js e Python.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
