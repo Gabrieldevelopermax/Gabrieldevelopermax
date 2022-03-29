@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software .
+💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software . </br>
 🎓 &nbsp;Atualmente estou estudando React,js e Python.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -20,5 +20,5 @@
  
 </a>
 </p>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
